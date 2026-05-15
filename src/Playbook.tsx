@@ -323,7 +323,7 @@ export default function PlaybookBrightDash() {
         <div className="p-6 md:p-8">
           <div className="flex items-center gap-3 mb-10">
             <div className="w-8 h-8 rounded-lg flex items-center justify-center shadow-sm">
-              <img src="../public/logo-svg.svg" alt="Logo" />
+              <img src="/logo-svg.svg" alt="Logo" />
             </div>
             <span className="font-bold text-xl text-slate-900 tracking-tight">Playbook</span>
           </div>
